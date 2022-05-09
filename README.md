@@ -32,7 +32,7 @@ pip install -r requirements.txt
 To build a virtual app, you must first log in or join up.
 To manually deploy this project, you may either link your github profile or download ctl. 
 
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
 
 
 ## Directory Tree 
